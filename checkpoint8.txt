@@ -1,0 +1,33 @@
+mylist=[14, "hello", 967]
+mylist[2]
+#max index 2
+import pandas
+import numpy
+#le nom de la librerie est incorret
+print('hello world')
+#le commentaire à affcher doit ètre ecrit entre parentheses
+mydictionnary={True:"hello",False:"bye", '3':"python"}
+mydictionnary['True']
+# key can not be true or False
+i=14
+while i<78:
+    print(i)
+    i+=1
+#les intructions de la boucle while doivent respecter l'identation
+
+it=iter([1,2,3])
+next(it)
+next(it)
+next(it)
+#seulement trois iteration
+'15'+'15'
+#la concatination se fait sur des élement de meme type
+int('512')
+#la fonction predefinie int() ne peut pas etre appliquée que sur une chaine des entiers
+python
+#name 'python is not defined'
+x=19/0
+# the second operater in the division can not be zero
+
+
+
